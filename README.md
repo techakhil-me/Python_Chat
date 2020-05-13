@@ -1,7 +1,7 @@
 # Python_Chat
 An app made with python to provide end to end conversation
 
-#Prerequisite
+#Prerequisite<br>
 1.Python 3.6+ <br>
 2.Sockets
 
