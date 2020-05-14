@@ -1,4 +1,4 @@
-# Python_Chat(Beginning)
+# Python_Chat(Beginning) 
 An app made with python to provide end to end conversation
 
 #Prerequisite<br>
@@ -7,3 +7,5 @@ An app made with python to provide end to end conversation
 
 # What Are Sockets?
 Sockets are mainly used in the client-server based application. If there are two processes or two systems that want to communicate with each other, a socket provides an ending point of that communication. It is usually identified by an IP address associated with a port number.
+
+enjoy!!!

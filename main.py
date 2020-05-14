@@ -1,5 +1,1 @@
-print("HELLO WORLD")
-print("aayushthegr8")
-print("PranavS")
-print('test')
-print('test2.0')
+print('Hello World')
